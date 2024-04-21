@@ -1,0 +1,14 @@
+/Users/ertangaliba/Downloads/lesson/test/bin/Debug/net8.0/test
+/Users/ertangaliba/Downloads/lesson/test/bin/Debug/net8.0/test.deps.json
+/Users/ertangaliba/Downloads/lesson/test/bin/Debug/net8.0/test.runtimeconfig.json
+/Users/ertangaliba/Downloads/lesson/test/bin/Debug/net8.0/test.dll
+/Users/ertangaliba/Downloads/lesson/test/bin/Debug/net8.0/test.pdb
+/Users/ertangaliba/Downloads/lesson/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertangaliba/Downloads/lesson/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/Users/ertangaliba/Downloads/lesson/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/Users/ertangaliba/Downloads/lesson/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/Users/ertangaliba/Downloads/lesson/test/obj/Debug/net8.0/test.dll
+/Users/ertangaliba/Downloads/lesson/test/obj/Debug/net8.0/refint/test.dll
+/Users/ertangaliba/Downloads/lesson/test/obj/Debug/net8.0/test.pdb
+/Users/ertangaliba/Downloads/lesson/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/Users/ertangaliba/Downloads/lesson/test/obj/Debug/net8.0/ref/test.dll
